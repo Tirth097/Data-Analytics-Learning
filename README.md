@@ -2,14 +2,6 @@
 
 This repository contains my Python learning progress, practice exercises, and Jupyter notebooks.
 
-## Topics Covered
-- Lists
-- Strings
-- Sets
-- Tuples
-- Dictionaries
-- Basic Python Operations
-
 ## Tools Used
 - Python
 - Jupyter Notebook
