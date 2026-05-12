@@ -1,2 +1,20 @@
-# Python-Learning-Journey
-A collection of Python practice programs, Jupyter notebooks, and mini-projects documenting my learning journey in Python programming.
+# Python Learning Journey
+
+This repository contains my Python learning progress, practice exercises, and Jupyter notebooks.
+
+## Topics Covered
+- Lists
+- Strings
+- Sets
+- Tuples
+- Dictionaries
+- Basic Python Operations
+
+## Tools Used
+- Python
+- Jupyter Notebook
+
+## Goal
+To strengthen my programming fundamentals and document my progress consistently.
+
+Author: Tirth Maheshwari
