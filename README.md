@@ -1,4 +1,4 @@
-# Python Learning Journey
+# Data Analytics Learning Journey
 
 This repository contains my Python learning progress, practice exercises, and Jupyter notebooks.
 
